@@ -1,0 +1,24 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "description": "Bot buscador de  endereço pelo cep.",
+  "main": "botCep.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cympgo/bot-telegram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cympgo/bot-telegram/issues"
+  },
+  "homepage": "https://github.com/cympgo/bot-telegram#readme"
+}
